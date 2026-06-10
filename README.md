@@ -61,7 +61,12 @@ September Root Cause Analysis
 
 ## Key Insights
 
-(To be added after dashboard completion)
+* Identified the highest revenue-generating product categories.
+* Analyzed regional sales performance to determine top-performing markets.
+* Evaluated delivery delays and order fulfillment efficiency.
+* Examined customer satisfaction ratings and service quality trends.
+* Highlighted business opportunities through KPI-driven analysis.
+
 
 ## Skills Demonstrated
 
