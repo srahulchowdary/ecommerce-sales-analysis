@@ -42,7 +42,13 @@ The dataset contains information related to:
 
 ## Dashboard Screenshots
 
-(Screenshots will be added here)
+### Dashboard Overview
+
+![Dashboard](images/Screenshot 2026-05-31 153419.png)
+![Dashboard](images/Screenshot 2026-05-31 153446.png)
+![Dashboard](images/Screenshot 2026-05-31 153506.png)
+![Dashboard](images/Screenshot 2026-05-31 153530.png)
+![Dashboard](images/Screenshot 2026-05-31 153552.png)
 
 ## Key Insights
 
