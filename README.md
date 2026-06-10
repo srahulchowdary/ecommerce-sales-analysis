@@ -44,11 +44,20 @@ The dataset contains information related to:
 
 ### Dashboard Overview
 
-![Dashboard](images/Screenshot 2026-05-31 153419.png)
-![Dashboard](images/Screenshot 2026-05-31 153446.png)
-![Dashboard](images/Screenshot 2026-05-31 153506.png)
-![Dashboard](images/Screenshot 2026-05-31 153530.png)
-![Dashboard](images/Screenshot 2026-05-31 153552.png)
+Executive Dashboard
+![Sales Overview](images/Screenshot 2026-05-31 153419.png)
+
+Late Delivery Analysis
+![Delivery Analysis](images/Screenshot 2026-05-31 153446.png)
+
+Revenue & State Analysis
+![Regional Insights](images/Screenshot 2026-05-31 153506.png)
+
+September Revenue Drop Analysis
+![Revenue Drop Investigation](images/Screenshot 2026-05-31 153530.png)
+
+September Root Cause Analysis
+![Root Cause Analysis – September Revenue Decline](images/Screenshot 2026-05-31 153552.png)
 
 ## Key Insights
 
