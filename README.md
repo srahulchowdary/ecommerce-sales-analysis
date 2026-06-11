@@ -66,20 +66,20 @@ The dataset contains information related to:
 
 ### Dashboard Overview
 
-Executive Dashboard
+### Executive Dashboard
 ![Sales Overview](images/Sales Overview.png)
 
-Late Delivery Analysis
+### Late Delivery Analysis
 ![Delivery Analysis](images/Delivery Analysis.png)
 
-Revenue & State Analysis
+### Revenue & State Analysis
 ![Regional Insights](images/Regional Insights.png)
 
-September Revenue Drop Analysis
+### September Revenue Drop Analysis
 ![Revenue Drop Investigation](images/Revenue Drop Investigation.png)
 
-September Root Cause Analysis
-![Root Cause Analysis – September Revenue Decline](images/Root Cause Analysis – September Revenue Decline.png)
+### September Root Cause Analysis
+![Root Cause Analysis](images/Root Cause Analysis – September Revenue Decline.png)
 
 ## SQL Analysis
 
