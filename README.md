@@ -15,9 +15,11 @@
 
 ## Project Resources
 
-📷 [View Dashboard Images](./images)
+📷 Dashboard Images: [Open Images Folder](./images)
 
-📝 [View SQL Files](./sql)
+📝 SQL Queries: [Open SQL Folder](./sql)
+
+📄 SQL Script: [ecommerce_analysis.sql](./sql/ecommerce_analysis.sql)
 
 
 ## Project Overview
