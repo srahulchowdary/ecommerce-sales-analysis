@@ -89,6 +89,8 @@ The dataset contains information related to:
 
 ## SQL Analysis
 
+📂 **Open SQL Files:** [SQL Folder](./sql)
+
 The project uses SQL for:
 
 * Data Cleaning and Validation
@@ -98,7 +100,7 @@ The project uses SQL for:
 * Customer Rating Analysis
 * Root Cause Investigation for Revenue Decline
 
-The complete SQL script is available in the `sql` folder.
+The complete SQL scripts are available in the SQL folder.
 
 
 ## Key Insights
