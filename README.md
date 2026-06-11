@@ -59,6 +59,20 @@ September Revenue Drop Analysis
 September Root Cause Analysis
 ![Root Cause Analysis – September Revenue Decline](images/Screenshot 2026-05-31 153552.png)
 
+## SQL Analysis
+
+The project uses SQL for:
+
+* Data Cleaning and Validation
+* KPI Calculations
+* Revenue Trend Analysis
+* Delivery Performance Analysis
+* Customer Rating Analysis
+* Root Cause Investigation for Revenue Decline
+
+The complete SQL script is available in the `sql` folder.
+
+
 ## Key Insights
 
 * Identified the highest revenue-generating product categories.
