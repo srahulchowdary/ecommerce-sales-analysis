@@ -1,5 +1,18 @@
 # E-commerce Sales & Delivery Performance Analysis
 
+## Quick Navigation
+
+📊 [Dashboard Screenshots](#dashboard-screenshots)
+
+🗃️ [SQL Analysis](#sql-analysis)
+
+💡 [Key Insights](#key-insights)
+
+📈 [Business Impact](#business-impact)
+
+🏁 [Conclusion](#conclusion)
+
+
 ## Project Overview
 
 This project analyzes e-commerce sales performance, delivery efficiency, and customer satisfaction to identify business trends and opportunities for improvement.
