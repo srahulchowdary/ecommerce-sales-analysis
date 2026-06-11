@@ -101,3 +101,8 @@ This analysis helps e-commerce businesses:
 * Data Visualization
 * Dashboard Development
 * Business Storytelling
+
+## Conclusion
+
+This project demonstrates how SQL and Power BI can be used together to transform raw e-commerce data into actionable business insights. Through sales analysis, delivery performance monitoring, customer satisfaction evaluation, and revenue trend investigation, the project highlights opportunities for operational improvement and data-driven decision-making.
+
