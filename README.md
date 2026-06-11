@@ -67,6 +67,17 @@ September Root Cause Analysis
 * Examined customer satisfaction ratings and service quality trends.
 * Highlighted business opportunities through KPI-driven analysis.
 
+## Business Impact
+
+This analysis helps e-commerce businesses:
+
+* Identify revenue-driving product categories
+* Improve delivery performance
+* Reduce late-order rates
+* Improve customer satisfaction
+* Detect seasonal revenue fluctuations
+* Support data-driven operational decisions
+
 
 ## Skills Demonstrated
 
