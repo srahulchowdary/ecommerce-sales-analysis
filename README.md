@@ -64,22 +64,28 @@ The dataset contains information related to:
 
 ## Dashboard Screenshots
 
-### Dashboard Overview
+📂 **Open All Dashboard Images:** [Images Folder](./images)
 
 ### Executive Dashboard
-![Sales Overview](images/Sales Overview.png)
+
+![Executive Dashboard](images/dashboard-overview.png)
 
 ### Late Delivery Analysis
-![Delivery Analysis](images/Delivery Analysis.png)
+
+![Late Delivery Analysis](images/late-delivery-analysis.png)
 
 ### Revenue & State Analysis
-![Regional Insights](images/Regional Insights.png)
+
+![Revenue State Analysis](images/revenue-state-analysis.png)
 
 ### September Revenue Drop Analysis
-![Revenue Drop Investigation](images/Revenue Drop Investigation.png)
+
+![September Revenue Drop Analysis](images/september-revenue-drop-analysis.png)
 
 ### September Root Cause Analysis
-![Root Cause Analysis](images/Root Cause Analysis – September Revenue Decline.png)
+
+![September Root Cause Analysis](images/september-root-cause-analysis.png)
+
 
 ## SQL Analysis
 
