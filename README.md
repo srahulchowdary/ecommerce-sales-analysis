@@ -13,6 +13,13 @@
 🏁 [Conclusion](#conclusion)
 
 
+## Project Resources
+
+📷 [View Dashboard Images](./images)
+
+📝 [View SQL Files](./sql)
+
+
 ## Project Overview
 
 This project analyzes e-commerce sales performance, delivery efficiency, and customer satisfaction to identify business trends and opportunities for improvement.
